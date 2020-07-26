@@ -1,0 +1,25 @@
+#titulo{
+    text-align: center;
+    padding-top: 35px;
+    font-family: 'Montserrat', sans-serif;
+}
+#subtitulo{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+}
+.botao{
+    text-align: center;
+}
+body{
+    background-color:#F0FFFF;
+}
+#imagem{
+    display: flex;
+    display: -webkit-flex;
+    justify-content:center;
+    align-items: center;
+}
